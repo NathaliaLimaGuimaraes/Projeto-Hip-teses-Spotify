@@ -33,7 +33,7 @@ https://drive.google.com/drive/u/0/folders/1R6ssV4TjljhN8xzgEgYxYFILJQWyhqX2
 https://app.powerbi.com/groups/me/reports/ac1e54b0-8365-4c53-a6d9-5f132180e97d/ReportSectionac6246a313a51195847b?experience=power-bi
 
 ## Ficha técnica
-https://www.notion.so/Projeto-2-Hip-teses-cfcdac96e3964d1eb613eb88917902e5
+https://able-dewberry-b49.notion.site/Ficha-T-cnica-0ecdc41f34fa4453afa8ae7f253136e2
 
 ## Resultados e Conclusões ✅
 ![Dashboard](file:///C:/Users/ACER/Desktop/dashboard_hipoteses.png)
