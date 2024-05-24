@@ -29,19 +29,21 @@ Nathalia Guimarães e Brenda Rosas
 2. Python no Google Colab
 
 ## Base de Dados
-https://drive.google.com/drive/u/0/folders/1R6ssV4TjljhN8xzgEgYxYFILJQWyhqX2
-https://app.powerbi.com/groups/me/reports/ac1e54b0-8365-4c53-a6d9-5f132180e97d/ReportSectionac6246a313a51195847b?experience=power-bi
+Link para data.set e códigos Python > https://drive.google.com/drive/u/0/folders/1R6ssV4TjljhN8xzgEgYxYFILJQWyhqX2
+
 
 ## Ficha técnica
-https://able-dewberry-b49.notion.site/Ficha-T-cnica-0ecdc41f34fa4453afa8ae7f253136e2
+Link para Ficha Técnica detalhada > https://able-dewberry-b49.notion.site/Ficha-T-cnica-0ecdc41f34fa4453afa8ae7f253136e2
 
 ## Resultados e Conclusões ✅
-![Dashboard](file:///C:/Users/ACER/Desktop/dashboard_hipoteses.png)
-<img src="[URL_da_Imagem](https://app.powerbi.com/groups/me/reports/ac1e54b0-8365-4c53-a6d9-5f132180e97d/ReportSectionac6246a313a51195847b?experience=power-bi)" alt="dashbord">
+
+Para mais detalhes, consulte o relatório completo no Power BI: [Relatório Power BI](https://app.powerbi.com/groups/me/reports/ac1e54b0-8365-4c53-a6d9-5f132180e97d/ReportSectionac6246a313a51195847b?experience=power-bi)
+![dashboard_hipoteses](https://github.com/NathaliaLimaGuimaraes/Projeto-Hip-teses-Spotify/assets/168832834/2da8716b-2844-4ea1-8ef1-10a0b54b7293)
+
+
 
 ## ⚠️ Limitações e Próximos Passos
-Os dados fornecidos para análise apresentaram algumas limitações que dificultaram a obtenção de informações precisas para responder ao questionamento central da pesquisa: "O que torna uma música mais ouvida?". Essas limitações impactaram a capacidade de obter insights mais direcionados e identificar os principais fatores que influenciaram a popularidade de uma música.  
-
+Os dados fornecidos para análise apresentaram algumas limitações que dificultaram a obtenção de informações precisas para responder ao questionamento central da pesquisa: "O que torna uma música mais ouvida?". Essas limitações impactaram a capacidade de obter insights mais direcionados e identificar os principais fatores que influenciaram a popularidade de uma música. Para mais detalhes, consulte o ficha técnica seção limitações:[Fichá técnica](https://www.notion.so/Projeto-2-Hip-teses-cfcdac96e3964d1eb613eb88917902e5)
 
    
 
